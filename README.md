@@ -13,6 +13,9 @@ Install and run with yarn
   yarn dev
 ```
 
+To start using the API you can enter to the browser with the following URL
+http://localhost:4000/graphql
+
 To get some data from the server you can request the following object:
 
 ```bash
