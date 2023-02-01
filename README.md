@@ -1,12 +1,12 @@
 ### This is a simple GraphQL API with a couple of endpoints.
 
-This project uses yarn, if you do not have it please do
+This project uses yarn, if you do not have it please do:
 
 ```bash
   npm install --global yarn
 ```
 
-Install and run with yarn
+Install and run with yarn:
 
 ```bash
   yarn
